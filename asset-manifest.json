@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student-table/static/css/main.b57a0aac.css",
+    "main.js": "/student-table/static/js/main.46e1140a.js",
+    "index.html": "/student-table/index.html",
+    "main.b57a0aac.css.map": "/student-table/static/css/main.b57a0aac.css.map",
+    "main.46e1140a.js.map": "/student-table/static/js/main.46e1140a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57a0aac.css",
+    "static/js/main.46e1140a.js"
+  ]
+}
